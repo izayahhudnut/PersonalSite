@@ -1,0 +1,104 @@
+.Top-container{
+  background-image: url("4kbackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+  text-align: Right;
+
+}
+
+.Intro{
+  height: 400px;
+  background-color: grey;
+  width: 70%;
+  text-align: center;
+  margin: 100px auto;
+}
+
+.Cars{
+  background-color: grey;
+  width: 70%;
+  margin: 100px auto;
+  height: 500px;
+}
+
+.Lambo{
+  height: 200px;
+  float: left;
+}
+.Links{
+  Margin: 20px 50px;
+  text-decoration: none;
+font-family: 'Encode Sans SC', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    color: Black;
+    padding-top: 50px;
+}
+h1{
+  font-family: 'Zen Dots', cursive;
+  font-size: 55px;
+  margin: 0 1300px 0 0;
+}
+h2{
+
+    Color: Black;
+    font-family: 'Zen Dots', cursive;
+    font-size: 35px;
+    margin: 0 1300px 0 0;
+  }
+p{
+  font-family: 'Encode Sans SC', sans-serif;
+  color: Black;
+}
+  a{
+    text-decoration: none;
+      Color: Black;
+  }
+
+.BUTTON_Home {
+   background: #000000;
+   background-image: -webkit-linear-gradient(top, #000000, #595F66);
+   background-image: -moz-linear-gradient(top, #000000, #595F66);
+   background-image: -ms-linear-gradient(top, #000000, #595F66);
+   background-image: -o-linear-gradient(top, #000000, #595F66);
+   background-image: -webkit-gradient(to bottom, #000000, #595F66);
+   -webkit-border-radius: 8;
+   -moz-border-radius: 8;
+   border-radius: 8px;
+   color: #FFFFFF;
+font-family: 'Zen Dots', cursive;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px 20px 10px 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   margin: 10px 1300px 0 0;
+}
+
+.BUTTON_Home:hover {
+   border: solid #CFCFCF 1px;
+   background: #090909;
+   background-image: -webkit-linear-gradient(top, #090909, #6F7073);
+   background-image: -moz-linear-gradient(top, #090909, #6F7073);
+   background-image: -ms-linear-gradient(top, #090909, #6F7073);
+   background-image: -o-linear-gradient(top, #090909, #6F7073);
+   background-image: -webkit-gradient(to bottom, #090909, #6F7073);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.body{
+  background-color: White;
+  margin: 0;
+
+}
