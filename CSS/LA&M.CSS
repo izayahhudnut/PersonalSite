@@ -9,23 +9,30 @@
 
 }
 
+
 .Intro{
   height: 400px;
-  background-color: grey;
+  background-color: white;
   width: 70%;
   text-align: center;
   margin: 100px auto;
 }
 
 .Cars{
-  background-color: grey;
+  background-color: white;
   width: 70%;
-  margin: 100px auto;
+  margin: auto;
   height: 500px;
 }
 
-.Lambo{
-  height: 200px;
+.car-head{
+  color: Black;
+  text-align: center;
+  margin: auto;
+}
+
+.Bugattipic{
+  height: 400px;
   float: left;
 }
 .Links{
@@ -51,7 +58,7 @@ h2{
   }
 p{
   font-family: 'Encode Sans SC', sans-serif;
-  color: Black;
+  color: black;
 }
   a{
     text-decoration: none;
@@ -102,3 +109,4 @@ font-family: 'Zen Dots', cursive;
   margin: 0;
 
 }
+
