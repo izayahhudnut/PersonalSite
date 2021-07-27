@@ -22,23 +22,82 @@
   margin: auto;
   height: 500px;
 }
+.NFT{
+  margin: auto;
+  height: 500px;
+}
+.Watch{
+  margin: auto;
+  background-color: black;
+  height: 500px;
+}
+.Watchespic{
+  float: left;
+  height: 25em;
+}
 
+.watchdes{
+  color: white;
+    padding-top: 4em;
+}
+.NFTpic{
+  float: left;
+  height: 400px;
+  width: 40em;
+}
+.NFT-head{
+  text-align: center;
+  margin: auto;
+}
+.NFTdes{
+  color: Black;
+    padding-top: 4em;
+}
 .speedtail{
   float: left;
   height: 19.5em;
+}
+.Watchespic{
+  padding: 0 10em 0 10em;
 }
 .diablo{
   float: right;
   height: 21em;
 }
+.Lambveneno{
+  width: 80%;
+  margin: 0 auto 7em auto;
+}
+.Veneno{
+  float: left;
+  height: 20em;
+}
 .Mclaren{
-  margin: 15em auto auto auto;
+  width: 80%;
+  margin: 15em auto 7em auto;
+}
+.Lambdiablo{
+  width: 80%;
+  margin: 0 auto 7em auto;
 }
 
+.Countach{
+  width: 80%;
+  margin: 0 auto 7em auto;
+}
+.Countachpic{
+  float: right;
+  height: 20em;
+}
 .Lamb{
   color: black;
 }
 .car-head{
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+.Watch-head{
   color: white;
   text-align: center;
   margin: auto;
@@ -88,7 +147,7 @@ p{
 
 .Discover{
   Margin: 20px 50px;
-  text-decoration: none;
+  text-decoration: underline;
     font-size: 20px;
     color: white;
     padding-top: 150px;
@@ -97,12 +156,34 @@ p{
 .Discover:hover{
   color: white;
 }
-.Price{
-  Margin: 20px 50px 0 0;
-  text-decoration: none;
+.DiscoverNFT{
+  Margin: 20px 50px;
+  text-decoration: underline;
     font-size: 20px;
     color: Black;
     padding-top: 150px;
+}
+
+.DiscoverNFT:hover{
+  color: black;
+}
+.DiscoverWatch{
+  Margin: 20px 50px;
+  text-decoration: underline;
+    font-size: 20px;
+    color: white;
+    padding-top: 150px;
+}
+
+.DiscoverWatch:hover{
+  color: white;
+}
+.Price{
+  Margin: 0 50px 0 0;
+  text-decoration: none;
+    font-size: 20px;
+    color: Black;
+    padding-top: 100px;
 }
 .Price:hover{
   color: grey;
